@@ -1,0 +1,5 @@
+login: alex_nap
+password: 41cd6ba204
+browser: microsoft
+website: https://test-stand.gb.ru/gateway/login
+website_get_user_profile: https://test-stand.gb.ru/api/users/profile/
